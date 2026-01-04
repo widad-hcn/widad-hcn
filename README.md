@@ -1,4 +1,4 @@
-```markdown
+
 <!-- =========================
      ✨ Widad's GitHub Profile
      ========================= -->
@@ -99,4 +99,3 @@ I’m currently learning Flutter and building:
 <!-- =========================
      End of README
      ========================= -->
-```
