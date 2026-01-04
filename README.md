@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build simple, useful projects while learning step by step —  
+  I build simple, useful projects  
   <b>web apps with Python</b> and <b>mobile apps with Flutter</b>.
 </p>
 
@@ -72,18 +72,17 @@ I’m currently learning Flutter and building:
 
 ## ✨ Featured Work (Pin Your Best Repos)
 
-> 📌 Tip: Put your best projects here (web + mobile).
-- 🌐 **Python Web App** — *Flask/Django project link here*
-- 🔌 **REST API** — *API project link here*
-- 📱 **Flutter App** — *Flutter project link here*
+> 📌 my best project
+- 🌐 **Python Web App** — *Travel Agency web application*
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=widadhacini23&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=widadhacini23&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=widad-hcn&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=widad-hcn&theme=tokyonight" />
 </p>
 
 ---
@@ -92,10 +91,15 @@ I’m currently learning Flutter and building:
 
 <p align="center">
   <a href="mailto:widadhacini23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-8A2BE2?style=for-the-badge" alt="Email Badge">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/widad-hacini-a41553392/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
 
 <!-- =========================
      End of README
      ========================= -->
+
