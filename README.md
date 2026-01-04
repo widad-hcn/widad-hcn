@@ -70,22 +70,13 @@ I’m currently learning Flutter and building:
 
 ---
 
-## ✨ Featured Work (Pin Your Best Repos)
+
 
 > 📌 my best project
 - 🌐 **Python Web App** — *Travel Agency web application*
 
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=widad-hcn&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=widad-hcn&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let’s Connect
 
